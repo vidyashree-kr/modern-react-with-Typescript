@@ -1,0 +1,67 @@
+{
+  "episodes": [
+    {
+      "name": "Episode1",
+      "number": 17,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 1,
+      "season": 2
+    },
+    {
+      "name": "Episode2",
+      "number": 17,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 2,
+      "season": 3
+    },
+    {
+      "name": "Episode3",
+      "number": 37,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 6,
+      "season": 1
+    },
+    {
+      "name": "Episode4",
+      "number": 27,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 7,
+      "season": 1
+    },
+    {
+      "name": "Episode5",
+      "number": 17,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 1,
+      "season": 2
+    },
+    {
+      "name": "Episode6",
+      "number": 17,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 2,
+      "season": 1
+    },
+    {
+      "name": "Episode7",
+      "number": 16,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 3,
+      "season": 3
+    },
+    {
+      "name": "Episode8",
+      "number": 18,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 4,
+      "season": 1
+    },
+    {
+      "name": "Episode9",
+      "number": 17,
+      "image":"https://fakeimg.pl/350x200/?text=Hello",
+      "id": 1,
+      "season": 2
+    }
+  ]
+}
